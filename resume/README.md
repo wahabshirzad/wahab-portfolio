@@ -1,12 +1,14 @@
 # Resume and Professional Background
 
+##Professional Summary 
+
+Computer Science student with hands-on experience in logistics, warehouse automation, and technical troubleshooting. Skilled in JavaScript, HTML, CSS, C++, C# and basic machine learning concepts. Experienced in building practical projects, including an AI-based logistics prediction system and a JavaScript Snake game. Strong interest in artificial intelligence, logistics technology, and real-world problem solving. 
+
 ## Education
 - Associate of Arts Degree (Expected Summer 2026)
 - Transfer student pursuing a Bachelor's degree in Computer Science
   
-##Professional Summary 
 
-Computer Science student with hands-on experience in logistics, warehouse automation, and technical troubleshooting. Skilled in JavaScript, HTML, CSS, C++, C# and basic machine learning concepts. Experienced in building practical projects, including an AI-based logistics prediction system and a JavaScript Snake game. Strong interest in artificial intelligence, logistics technology, and real-world problem solving. 
 ## Technical Skills
 - Python
 - HTML
